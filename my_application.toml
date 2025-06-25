@@ -1,0 +1,11 @@
+[Database]
+Type=MySQL
+Host=localhost
+Port=3306
+User=admin
+Password=secure_password
+
+[Network]
+Timeout=30
+RetryAttempts=3
+EnableLogging=true
