@@ -17,7 +17,7 @@ http {
         listen 80;
         listen [::]:80;
 
-        server_name paste.noobgam.me;
+        server_name paste.noobgam.me12;
 
         location /api/ {
           proxy_pass http://localhost:228/api/;
